@@ -1,0 +1,11 @@
+.background {
+    background-color: red;
+    width: 600px;
+    height: 600px;
+
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: green;
+}
